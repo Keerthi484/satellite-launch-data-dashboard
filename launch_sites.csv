@@ -1,0 +1,36 @@
+site_name,country,latitude,longitude,operator,active_from,active_to,is_active_2024,total_launches,success_rate,altitude_m,launch_pads,latitude_advantage
+Baikonur Cosmodrome,USSR/Kazakhstan,45.92,63.34,Roscosmos,1955,2024,1,86,0.87,116,4,0.225
+Cape Canaveral SLC-40,USA,28.56,-80.58,SpaceX,1965,2024,1,3,1.0,129,1,0.314
+Kennedy Space Center LC-39A,USA,28.61,-80.6,NASA/SpaceX,1967,2024,1,72,0.904,111,1,0.314
+Vandenberg SFB SLC-4E,USA,34.63,-120.61,SpaceX,1966,2024,1,12,0.986,107,6,0.283
+Plesetsk Cosmodrome,Russia,62.93,40.57,Russian MoD,1966,2024,1,42,0.868,63,5,0.138
+Guiana Space Centre ELA-3,French Guiana,5.24,-52.77,Arianespace,1968,2024,1,489,0.983,29,4,0.433
+Jiuquan Satellite Launch,China,40.96,100.29,CASC,1958,2024,1,95,0.928,25,5,0.251
+Xichang Satellite Launch,China,28.25,102.03,CASC,1984,2024,1,210,0.835,77,5,0.316
+Taiyuan Satellite Launch,China,38.85,111.61,CASC,1988,2024,1,49,0.965,15,5,0.261
+Wenchang Space Launch,China,19.61,110.95,CASC,2016,2024,1,519,0.999,23,2,0.36
+Tanegashima Space Center,Japan,30.4,130.97,JAXA,1969,2024,1,1075,1.0,59,1,0.305
+Satish Dhawan Space Centre,India,13.73,80.23,ISRO,1971,2024,1,18,0.943,93,2,0.39
+Naro Space Center,South Korea,34.43,127.53,KARI,2009,2024,1,704,0.948,76,3,0.284
+Mahia Peninsula LC-1,New Zealand,-39.26,177.86,Rocket Lab,2017,2024,1,12,0.89,51,1,0.259
+Wallops Flight Facility,USA,37.85,-75.49,NASA/Orbital ATK,1961,2024,1,181,0.855,66,2,0.267
+Cape Canaveral SLC-41,USA,28.58,-80.58,ULA,1965,2024,1,118,0.977,47,3,0.314
+Vandenberg SFB SLC-2W,USA,34.75,-120.63,ULA/Boeing,1966,2024,1,163,0.915,15,2,0.282
+Kapustin Yar,Russia,48.57,46.29,Russian MoD,1947,2024,1,134,0.782,10,6,0.212
+Svobodny / Vostochny,Russia,51.88,128.33,Roscosmos,2016,2024,1,36,0.825,31,6,0.195
+Palmachim Airbase,Israel,31.9,34.69,IAI,1988,2024,1,145,0.906,40,2,0.297
+NIFC-3 Sriharikota Alt,India,13.73,80.23,ISRO,1980,2024,1,351,0.985,9,6,0.39
+SpaceX Starbase (Boca Chica),USA,25.99,-97.16,SpaceX,2019,2024,1,33,1.0,5,4,0.327
+Uchinoura Space Center,Japan,31.25,131.08,JAXA,1962,2024,1,61,1.0,30,1,0.3
+Hammaguira,Algeria,30.88,-3.13,CNES,1965,1967,0,484,0.806,55,2,0.302
+San Marco Platform,Kenya (offshore),-2.94,40.21,Italy,1967,1988,0,36,0.945,100,1,0.445
+Kapustin Yar Site 86,Russia,48.5,46.25,Russia,1962,2024,1,77,1.0,6,6,0.212
+Edwards AFB,USA,34.91,-117.88,USAF,1961,1995,0,219,0.89,84,2,0.282
+Kourou ELS (Vega),French Guiana,5.24,-52.77,ESA/Vega,2012,2024,1,47,0.941,109,6,0.433
+Semnan Space Center,Iran,35.23,53.92,ISA,2008,2024,1,53,0.895,107,4,0.28
+Sohae Satellite Launching,North Korea,39.66,124.71,KCST,2012,2024,1,58,0.909,84,3,0.257
+Alcantara Launch Center,Brazil,-2.37,-44.4,AEB,2003,2024,1,231,0.863,18,6,0.448
+Esrange Space Center,Sweden,67.89,21.07,SSC,1972,2024,1,162,0.754,41,6,0.113
+Andoya Rocket Range,Norway,69.3,16.02,Andoya Space,1962,2024,1,74,1.0,162,5,0.106
+Kourou ELA-4 (Ariane 6),French Guiana,5.24,-52.77,ESA,2022,2024,1,2000,0.804,28,6,0.433
+Vandenberg SFB SLC-3E,USA,34.71,-120.59,Rocket Lab/others,2023,2024,1,90,0.978,84,1,0.283
